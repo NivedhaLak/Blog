@@ -1,0 +1,6 @@
+Problem type,Algorithm
+Shortest path (unweighted),BFS
+Shortest path (weighted),Dijkstra
+Explore all paths,DFS
+Connectivity / groups,Union-Find
+Min cost to connect all,MST
